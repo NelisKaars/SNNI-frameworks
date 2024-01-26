@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/eigen/unsupported/test/matrix_function.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "matrix_function_7"
+	}
+}

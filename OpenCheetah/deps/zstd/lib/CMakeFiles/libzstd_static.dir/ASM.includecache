@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/zstd/lib/common/portability_macros.h
+cet.h
+-
+
+/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/zstd/lib/decompress/huf_decompress_amd64.S
+../common/portability_macros.h
+/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/zstd/lib/common/portability_macros.h
+

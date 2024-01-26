@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/home/niels/.local/lib/python3.8/site-packages/cmake/data/bin/cmake;-P;/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/hexl/cmake/third-party/cpu-features/cpu-features-download/cpu_features-prefix/tmp/cpu_features-gitclone.cmake
+source_dir=/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/hexl/cmake/third-party/cpu-features/cpu-features-src
+work_dir=/home/niels/Documents/Jaar_3/Thesis/thesis_code/OpenCheetah/deps/hexl/cmake/third-party/cpu-features
+repository=https://github.com/google/cpu_features.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=
+
