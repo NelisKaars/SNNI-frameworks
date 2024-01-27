@@ -1,0 +1,7 @@
+{
+  "model_name": "models/alexnet/alexnet_Opset16.onnx",
+  "output_tensors": ["vgg0_dense2_fwd"],
+  "target": "SCI",
+  "scale": 12,
+  "backend": "HE"
+}
